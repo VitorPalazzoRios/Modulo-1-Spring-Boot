@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1d66937-6481-46d3-9346-4298719e5c20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2eeycKhCnSALP85Opf4ErVRZdAx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.github.VitorPalazzoRios" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vitor\IdeaProjects\vendas2\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="VendasApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.VitorPalazzoRios.VendasApplication" />
+      <module name="vendas2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.VitorPalazzoRios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VendasApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1d66937-6481-46d3-9346-4298719e5c20" name="Default Changelist" comment="" />
+      <created>1712279416564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712279416564</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="678" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1712879066011">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="678" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1712879066011" />
+    <state x="765" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1712711512117">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1712711512117" />
+    <state x="989" y="354" key="FileChooserDialogImpl" timestamp="1713028288200">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="989" y="354" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1713028288200" />
+    <state width="1048" height="294" key="GridCell.Tab.0.bottom" timestamp="1713228538799">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1048" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1713228538799" />
+    <state width="1048" height="294" key="GridCell.Tab.0.center" timestamp="1713228538799">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1048" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1713228538799" />
+    <state width="1048" height="294" key="GridCell.Tab.0.left" timestamp="1713228538798">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1048" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1713228538798" />
+    <state width="1048" height="294" key="GridCell.Tab.0.right" timestamp="1713228538799">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1048" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1713228538799" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1713229178999">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1713229178999" />
+    <state x="776" y="318" key="chooseDestDirectoryDialog" timestamp="1712279598099">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="776" y="318" key="chooseDestDirectoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1712279598099" />
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1713028266881">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1713028266881" />
+    <state x="342" y="235" key="new project wizard" timestamp="1713229027186">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="342" y="235" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1713229027186" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1712711838788">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1712711838788" />
+  </component>
+</project>
