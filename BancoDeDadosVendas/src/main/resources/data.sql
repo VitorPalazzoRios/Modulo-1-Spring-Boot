@@ -1,0 +1,25 @@
+CREATE TABLE CLIENTE(
+    ID INTEGER PRIMARY KEY AUTO_iNCREMENT,
+    NOME VARCHAR(100)
+);
+
+CREATE TABLE PRODUTO(
+          ID INTEGER PRIMARY KEY AUTO_iNCREMENT,
+          DESCRICAO VARCHAR(100),
+          PRECO NUMERIC(20,2)
+      );
+
+      CREATE TABLE PEDIDO(
+                  ID INTEGER PRIMARY KEY AUTO_iNCREMENT,
+                  CLIENTE_ID INTEGER REFERENCES CLIENTE (ID),
+                  DATA_PEDIDO TIMESTAMP,
+                  TOTAL NUMERIC(20,2)
+              );
+              CREATE TABLE ITEMS_PEIDO (
+              ID INTEGER PRIMARY KEY AUTO_iNCREMENT,
+                              PEDIDO_ID INTEGER REFERENCES PEDIDO (ID),
+                              PRODUTO_ID INTEGER REFERENCES PRODUTO (ID),
+                              QUANTIDADE INTEGER
+
+              );
+
